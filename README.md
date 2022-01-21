@@ -1,7 +1,5 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
-<a href="https://saifullah.co/"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome to my Github profile.;I'm a full-stack web developer.;Now working as a Jr. Full-Stack Web Developer;and trainer." /></a>
-
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 Working on wordpress themes for wordpress.org

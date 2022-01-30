@@ -62,6 +62,14 @@
       </tr>
     </thead>
     <tbody>
+	<tr>
+	<td><a href="https://github.com/saifullahsiddique/css-box-shadow-generator-by-react"><b>CSS Box Shadow Generator</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/saifullahsiddique/css-box-shadow-generator-by-react?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/saifullahsiddique/css-box-shadow-generator-by-react?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/saifullahsiddique/css-box-shadow-generator-by-react?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/saifullahsiddique/css-box-shadow-generator-by-react?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/saifullahsiddique/css-box-shadow-generator-by-react?style=flat-square"/></td>
+      </tr>
       <tr>
 	      <td><a href="https://github.com/saifullahsiddique/craftnce-agency-wordpress-theme"><b>Craftnce - Agency WordPress Theme</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/saifullahsiddique/craftnce-agency-wordpress-theme?style=flat-square&labelColor=343b41"/></td>

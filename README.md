@@ -26,9 +26,9 @@
   </a>
 </p>
 	
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saifullahsiddique&theme=nord)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saifullahsiddique&theme=nord_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saifullahsiddique&theme=dracula) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saifullahsiddique&theme=nord)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saifullahsiddique&theme=dracula) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saifullahsiddique&theme=nord_dark)
 	
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=saifullahsiddique.saifullahsiddique)
 [![Github](https://img.shields.io/github/followers/saifullahsiddique?label=Follow&style=social)](https://github.com/saifullahsiddique)

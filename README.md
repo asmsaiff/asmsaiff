@@ -25,13 +25,6 @@
   </a>
 </p>
 	
-<p align="left">
-  <a href="https://saifullah.co/">
-  <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saifullahsiddique&theme=nord_dark" />
-    <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saifullahsiddique&theme=nord_dark" />
-  </a>
-</p>
-	
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saifullahsiddique&theme=nord_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saifullahsiddique&theme=nord_dark)
 	
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=saifullahsiddique.saifullahsiddique)

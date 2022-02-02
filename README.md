@@ -13,7 +13,6 @@
 <br/>
 
 ## ⚡ My Statistics
-![](https://activity-graph.herokuapp.com/graph?username=saifullahsiddique&custom_title=Saifullah's%20Contribution%20Graph&theme=nord)
 <a href="https://saifullah.co/">
     <img alt="Saifullah's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=saifullahsiddique&custom_title=Saifullah's%20Contribution%20Graph&theme=nord" />
 </a>
@@ -26,9 +25,7 @@
   </a>
 </p>
 	
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saifullahsiddique&theme=nord_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saifullahsiddique&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saifullahsiddique&theme=nord_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saifullahsiddique&theme=nord_dark)
 	
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=saifullahsiddique.saifullahsiddique)
 [![Github](https://img.shields.io/github/followers/saifullahsiddique?label=Follow&style=social)](https://github.com/saifullahsiddique)

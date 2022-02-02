@@ -25,13 +25,13 @@
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=saifullahsiddique&theme=nord&hide_border=true" />
   </a>
 </p>
-
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=saifullahsiddique.saifullahsiddique)
-[![Github](https://img.shields.io/github/followers/saifullahsiddique?label=Follow&style=social)](https://github.com/saifullahsiddique)
 	
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saifullahsiddique&theme=nord)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saifullahsiddique&theme=dracula) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saifullahsiddique&theme=nord)
+	
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=saifullahsiddique.saifullahsiddique)
+[![Github](https://img.shields.io/github/followers/saifullahsiddique?label=Follow&style=social)](https://github.com/saifullahsiddique)
 
 **Languages I have used**
 

@@ -24,6 +24,7 @@
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=saifullahsiddique&theme=nord&hide_border=true" />
   </a>
 </p>
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saifullahsiddique&theme=nord_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saifullahsiddique&theme=nord_dark)
 	
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=saifullahsiddique.saifullahsiddique)

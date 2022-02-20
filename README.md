@@ -4,10 +4,10 @@
 
 - 🔭 Working on wordpress themes for wordpress.org
 - 🌱 Currently learning MERN Stack Web Development & WordPress Plugin Development.
+- 👯 Open source contributor.
 - 👯 Looking to collaborate on projects & tech articles.
 - 💬 Ask me about **WordPress**.
 - ⚡ Fun fact: I spend almost 5-6 hours learning everyday.
-- 👯 Open source contributor.
 - 📫 How to reach me? Visit here - https://saifullah.co
 
 <br/>
@@ -21,6 +21,13 @@
 <p align="left">
   <a href="https://saifullah.co/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=saifullahsiddique&show_icons=true&theme=nord&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=saifullahsiddique&theme=nord&hide_border=true" />
+  </a>
+</p>
+	
+<p align="left">
+  <a href="https://saifullah.co/">
+  <img width="49.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saifullahsiddique&theme=nord_dark" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=saifullahsiddique&theme=nord&hide_border=true" />
   </a>
 </p>

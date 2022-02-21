@@ -4,7 +4,7 @@
 
 - 🔭 Working on wordpress themes for wordpress.org
 - 🌱 Currently learning MERN Stack Web Development & WordPress Plugin Development.
-- 👯 Open source contributor.
+- 👯 Open source contributor
 - 👯 Looking to collaborate on projects & tech articles.
 - 💬 Ask me about **WordPress**.
 - ⚡ Fun fact: I spend almost 5-6 hours learning everyday.

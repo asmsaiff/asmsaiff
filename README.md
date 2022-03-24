@@ -20,7 +20,7 @@
 <br/>
 <p align="left">
   <a href="https://saifullah.co/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=saifullahsiddique&show_icons=true&theme=nord&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=saifullahsiddique&show_icons=true&theme=nord&hide_border=true&count_private=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=saifullahsiddique&theme=nord&hide_border=true" />
   </a>
 </p>

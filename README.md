@@ -14,22 +14,22 @@
 
 ## ⚡ My Statistics
 <a href="https://saifullah.co/">
-    <img alt="Saifullah's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=saifullahsiddique&custom_title=Saifullah's%20Contribution%20Graph&theme=nord" />
+    <img alt="Saifullah's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ssa1f&custom_title=Saifullah's%20Contribution%20Graph&theme=nord" />
 </a>
 
 <br/>
 	
 <p align="left">
   <a href="https://saifullah.co/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=saifullahsiddique&show_icons=true&theme=nord&hide_border=true&count_private=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=saifullahsiddique&theme=nord&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ssa1f&show_icons=true&theme=nord&hide_border=true&count_private=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ssa1f&theme=nord&hide_border=true" />
   </a>
 </p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saifullahsiddique&theme=nord_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saifullahsiddique&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ssa1f&theme=nord_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ssa1f&theme=nord_dark)
 	
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=saifullahsiddique.saifullahsiddique)
-[![Github](https://img.shields.io/github/followers/saifullahsiddique?label=Follow&style=social)](https://github.com/saifullahsiddique)
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=ssa1f.ssa1f)
+[![Github](https://img.shields.io/github/followers/ssa1f?label=Follow&style=social)](https://github.com/ssa1f)
 
 **Languages I have used**
 
@@ -65,36 +65,36 @@
     </thead>
     <tbody>
 	<tr>
-	<td><a href="https://github.com/saifullahsiddique/css-box-shadow-generator-by-react"><b>CSS Box Shadow Generator</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/saifullahsiddique/css-box-shadow-generator-by-react?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/saifullahsiddique/css-box-shadow-generator-by-react?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/saifullahsiddique/css-box-shadow-generator-by-react?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/saifullahsiddique/css-box-shadow-generator-by-react?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/saifullahsiddique/css-box-shadow-generator-by-react?style=flat-square"/></td>
+	<td><a href="https://github.com/ssa1f/css-box-shadow-generator-by-react"><b>CSS Box Shadow Generator</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/ssa1f/css-box-shadow-generator-by-react?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/ssa1f/css-box-shadow-generator-by-react?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/ssa1f/css-box-shadow-generator-by-react?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ssa1f/css-box-shadow-generator-by-react?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/ssa1f/css-box-shadow-generator-by-react?style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/saifullahsiddique/craftnce-agency-wordpress-theme"><b>Craftnce - Agency WordPress Theme</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/saifullahsiddique/craftnce-agency-wordpress-theme?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/saifullahsiddique/craftnce-agency-wordpress-theme?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/saifullahsiddique/craftnce-agency-wordpress-theme?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/saifullahsiddique/craftnce-agency-wordpress-theme?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/saifullahsiddique/craftnce-agency-wordpress-theme?style=flat-square"/></td>
+	      <td><a href="https://github.com/ssa1f/craftnce-agency-wordpress-theme"><b>Craftnce - Agency WordPress Theme</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/ssa1f/craftnce-agency-wordpress-theme?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/ssa1f/craftnce-agency-wordpress-theme?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/ssa1f/craftnce-agency-wordpress-theme?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ssa1f/craftnce-agency-wordpress-theme?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/ssa1f/craftnce-agency-wordpress-theme?style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/saifullahsiddique/plantex-house-plant-selling-wordpress-woocommerce-theme"><b>Plantex - Plant Selling WooCommerce Theme</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/saifullahsiddique/plantex-house-plant-selling-wordpress-woocommerce-theme?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/saifullahsiddique/plantex-house-plant-selling-wordpress-woocommerce-theme?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/saifullahsiddique/plantex-house-plant-selling-wordpress-woocommerce-theme?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/saifullahsiddique/plantex-house-plant-selling-wordpress-woocommerce-theme?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/saifullahsiddique/plantex-house-plant-selling-wordpress-woocommerce-theme?style=flat-square"/></td>
+	      <td><a href="https://github.com/ssa1f/plantex-house-plant-selling-wordpress-woocommerce-theme"><b>Plantex - Plant Selling WooCommerce Theme</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/ssa1f/plantex-house-plant-selling-wordpress-woocommerce-theme?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/ssa1f/plantex-house-plant-selling-wordpress-woocommerce-theme?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/ssa1f/plantex-house-plant-selling-wordpress-woocommerce-theme?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ssa1f/plantex-house-plant-selling-wordpress-woocommerce-theme?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/ssa1f/plantex-house-plant-selling-wordpress-woocommerce-theme?style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/saifullahsiddique/xisen-multipurpose-agency-wordpress-theme"><b>Xisen - Agency WordPress Theme</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/saifullahsiddique/xisen-multipurpose-agency-wordpress-theme?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/saifullahsiddique/xisen-multipurpose-agency-wordpress-theme?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/saifullahsiddique/xisen-multipurpose-agency-wordpress-theme?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/saifullahsiddique/xisen-multipurpose-agency-wordpress-theme?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/saifullahsiddique/xisen-multipurpose-agency-wordpress-theme?style=flat-square"/></td> 
+	      <td><a href="https://github.com/ssa1f/xisen-multipurpose-agency-wordpress-theme"><b>Xisen - Agency WordPress Theme</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/ssa1f/xisen-multipurpose-agency-wordpress-theme?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/ssa1f/xisen-multipurpose-agency-wordpress-theme?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/ssa1f/xisen-multipurpose-agency-wordpress-theme?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ssa1f/xisen-multipurpose-agency-wordpress-theme?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/ssa1f/xisen-multipurpose-agency-wordpress-theme?style=flat-square"/></td> 
       </tr>
     </tbody>
   </table>

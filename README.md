@@ -32,8 +32,6 @@
     <img width="32.3%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ssa1f&theme=nord_dark" />
   </a>
 </p>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ssa1f&theme=nord_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ssa1f&theme=nord_dark)
 	
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=ssa1f.ssa1f)
 [![Github](https://img.shields.io/github/followers/ssa1f?label=Follow&style=social)](https://github.com/ssa1f)

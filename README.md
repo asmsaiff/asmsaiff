@@ -29,7 +29,7 @@
 <p align="left">
   <a href="https://saifullah.co/">
     <img width="66.7%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ssa1f&theme=nord_dark" />
-    <img width="33.3%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ssa1f&theme=nord_dark" />
+    <img width="32.3%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ssa1f&theme=nord_dark" />
   </a>
 </p>
 

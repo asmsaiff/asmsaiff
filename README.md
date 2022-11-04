@@ -28,8 +28,8 @@
 	
 <p align="left">
   <a href="https://saifullah.co/">
-    <img width="75%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ssa1f&theme=nord_dark" />
-    <img width="25%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ssa1f&theme=nord_dark" />
+    <img width="74.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ssa1f&theme=nord_dark" />
+    <img width="24.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ssa1f&theme=nord_dark" />
   </a>
 </p>
 

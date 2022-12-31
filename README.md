@@ -2,12 +2,12 @@
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 Working on wordpress themes for wordpress.org
-- 🌱 Currently learning MERN Stack Web Development & WordPress Plugin Development.
+- 🔭 Working on wordpress themes & plugins for wordpress.org
+- 🌱 Currently learning MERN Stack Web Development
 - 👯 Open source contributor
-- 👯 Looking to collaborate on projects & tech articles.
-- 💬 Ask me about **WordPress** and **JavaScript**.
-- ⚡ Fun fact: I spend almost 5-6 hours learning everyday.
+- 👯 Looking to collaborate on projects & tech articles
+- 💬 Ask me about **WordPress** and **JavaScript**
+- ⚡ Fun fact: I spend almost 3-4 hours learning everyday
 - 📫 How to reach me? Visit here - https://saifullah.co
 
 <br/>

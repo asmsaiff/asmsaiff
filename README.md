@@ -91,7 +91,7 @@
         <td><img alt="Issues" src="https://img.shields.io/github/issues/ssa1f/plantex-house-plant-selling-wordpress-woocommerce-theme?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ssa1f/plantex-house-plant-selling-wordpress-woocommerce-theme?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/ssa1f/plantex-house-plant-selling-wordpress-woocommerce-theme?style=flat-square"/></td>
-      </tr>
+      </tr> 
       <tr>
 	      <td><a href="https://github.com/ssa1f/xisen-multipurpose-agency-wordpress-theme"><b>Xisen - Agency WordPress Theme</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/ssa1f/xisen-multipurpose-agency-wordpress-theme?style=flat-square&labelColor=343b41"/></td>

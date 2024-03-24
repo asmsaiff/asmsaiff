@@ -6,7 +6,7 @@
 - 🌱 Currently learning MERN Stack Web Development
 - 👯 Open source contributor
 - 👯 Looking to collaborate on projects & tech articles
-- 💬 Ask me about **WordPress**
+- 💬 Ask me about **WordPress & MERN Stack**
 - ⚡ Fun fact: I spend almost 3-4 hours learning everyday
 - 📫 How to reach me? Visit here - https://saif.im
 

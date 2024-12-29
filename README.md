@@ -20,14 +20,14 @@
 <br/>
 	
 <p align="left">
-  <a href="https://saifullah.co/">
+  <a href="https://saif.im/">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=asmsaiff&show_icons=true&theme=nord&hide_border=true&count_private=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=asmsaiff&theme=nord&hide_border=true" />
   </a>
 </p>
 	
 <p align="left">
-  <a href="https://saifullah.co/">
+  <a href="https://saif.im/">
     <img width="66.7%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asmsaiff&theme=nord_dark" />
     <img width="32.3%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asmsaiff&theme=nord_dark" />
   </a>

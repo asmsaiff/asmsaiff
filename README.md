@@ -7,7 +7,7 @@
 - 👯 Open source contributor
 - 👯 Looking to collaborate on projects & tech articles
 - 💬 Ask me about **WordPress & MERN Stack**
-- ⚡ Fun fact: I spend almost 3-4 hours learning everyday
+- ⚡ Fun fact: I spend almost 3-4 hours learning every day
 - 📫 How to reach me? Visit here - https://saif.im
 
 <br/>

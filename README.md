@@ -2,13 +2,13 @@
 
 <a href="https://saif.im/"><img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /></a>
 
-- 🔭 Working on wordpress themes & plugins for wordpress.org
-- 🌱 Currently learning MERN Stack Web Development
-- 👯 Open source contributor
-- 👯 Looking to collaborate on projects & tech articles
-- 💬 Ask me about **WordPress & MERN Stack**
-- ⚡ Fun fact: I spend almost 3-4 hours learning every day
-- 📫 How to reach me? Visit here - https://saif.im
+- 🔭 I specialize in developing WordPress themes & plugins.
+- 🌱 Currently expanding my expertise in Node.js & Augmented Reality.
+- 👯 Open source contributor.
+- 👯 Open to collaborating on technical projects and writing tech articles.
+- 💬 Ask me about **Full-stack Development in PHP & React.js/Vue.js**
+- ⚡ A little about me: I dedicate 3–4 hours daily to continuous learning and professional growth.
+- 📫 You can get in touch with me here: https://saif.im
 
 <br/>
 

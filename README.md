@@ -102,7 +102,6 @@
       </tr>
     </tbody>
   </table>
-
 <br/>
 <h3>Social media links-</h3>
 

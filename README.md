@@ -3,7 +3,7 @@
 <a href="https://saif.im/"><img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /></a> 
 
 - 🔭 I specialize in developing WordPress themes & plugins.
-- 🌱 Currently expanding my expertise in Node.js & Augmented Reality. 
+- 🌱 Currently expanding my expertise in Node.js & Augmented Reality.
 - 👯 Open source contributor.
 - 👯 Open to collaborating on technical projects and writing tech articles.
 - 💬 Ask me about **Full-stack Development in PHP & React.js/Vue.js**

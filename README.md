@@ -8,7 +8,7 @@
 - 👯 Open to collaborating on technical projects and writing tech articles.
 - 💬 Ask me about **Full-stack Development in PHP & React.js/Vue.js**
 - ⚡ A little about me: I dedicate 3–4 hours daily to continuous learning and professional growth.
-- 📫 You can get in touch with me here: https://saif.im
+- 📫 You can get in touch with me here: https://mrsaif.com
 
 <br/> 
 

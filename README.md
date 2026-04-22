@@ -15,7 +15,7 @@
 
 ## ⚡ My Statistics
 <a href="https://mrsaif.com" target="_blank">
-    <img alt="Saifullah's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=asmsaiff&custom_title=Saif's%20Contribution%20Graph&theme=nord" />
+    <img alt="Saifullah's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=asmsaiff&theme=nord&line=0ea5e9&point=f97316&area=true&hide_border=true&radius=8" />
 </a>
 
 <br/>

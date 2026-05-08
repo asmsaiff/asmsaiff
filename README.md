@@ -15,7 +15,7 @@
 
 ## ⚡ My Statistics
 <a href="https://mrsaif.com" target="_blank">
-    <img alt="Saifullah's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=asmsaiff&theme=nord&line=0ea5e9&point=f97316&area=true&hide_border=true&radius=8" />
+    <img alt="Saif's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=asmsaiff&theme=nord&line=0ea5e9&point=f97316&area=true&hide_border=true&radius=8" />
 </a>
 
 <br/>

@@ -55,7 +55,7 @@
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 <br />
 
-### 🥇 <b>Open Source Projects open for contributions.</b>
+### 🥇 Open Source Projects open for contributions.
  
   <table>
     <thead align="left">

@@ -1,4 +1,4 @@
-<h1> Hello, Fellow < Developers />! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"> </h1>
+<h1> Hello, Fellow < Developers />! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></h1>
 
 <a href="https://mrsaif.com/"><img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /></a> 
 
@@ -14,7 +14,7 @@
 
 ## ⚡ My Statistics
 <a href="https://mrsaif.com" target="_blank">
-    <img alt="Saif's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graphusername=asmsaiff&theme=nord&line=0ea5e9&point=f97316&area=true&hide_border=true&radius=8" />
+    <img alt="Saif's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graphusername=asmsaiff&theme=nord&line=0ea5e9&point=f97316&area=true&hide_border=true&radius=8"/>
 </a>
 
 <br/>

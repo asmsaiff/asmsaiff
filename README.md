@@ -83,7 +83,7 @@
         <td><img alt="Forks" src="https://img.shields.io/github/forks/asmsaiff/craftnce-agency-wordpress-theme?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/asmsaiff/craftnce-agency-wordpress-theme?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/asmsaiff/craftnce-agency-wordpress-theme?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/asmsaiff/craftnce-agency-wordpress-theme?style=flat-square"/></td>
+        <td><img alt="Languages" src="https://img.shields.io/github/languages/top/asmsaiff/craftnce-agency-wordpress-theme?style=flat-square"/></td>
       </tr>
       <tr>
 	      <td><a href="https://github.com/asmsaiff/plantex-house-plant-selling-wordpress-woocommerce-theme"><b>Plantex - Plant Selling WooCommerce Theme</b></a></td>

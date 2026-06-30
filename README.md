@@ -86,14 +86,6 @@
         <td><img alt="Languages" src="https://img.shields.io/github/languages/top/asmsaiff/craftnce-agency-wordpress-theme?style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/asmsaiff/plantex-house-plant-selling-wordpress-woocommerce-theme"><b>Plantex - Plant Selling WooCommerce Theme</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/asmsaiff/plantex-house-plant-selling-wordpress-woocommerce-theme?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/asmsaiff/plantex-house-plant-selling-wordpress-woocommerce-theme?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/asmsaiff/plantex-house-plant-selling-wordpress-woocommerce-theme?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/asmsaiff/plantex-house-plant-selling-wordpress-woocommerce-theme?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/asmsaiff/plantex-house-plant-selling-wordpress-woocommerce-theme?style=flat-square"/></td>
-      </tr> 
-      <tr>
 	      <td><a href="https://github.com/asmsaiff/xisen-multipurpose-agency-wordpress-theme"><b>Xisen - Agency WordPress Theme</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/asmsaiff/xisen-multipurpose-agency-wordpress-theme?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/asmsaiff/xisen-multipurpose-agency-wordpress-theme?style=flat-square&labelColor=343b41"/></td>
